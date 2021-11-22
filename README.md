@@ -15,6 +15,6 @@ sklearn (optional: to fetch data)
 ### Notebooks
 작성된 파일은 링크를 설정하였습니다
 
-- [Linear Regression](linear_regression/README.md)
-- [Probability Distribution](probability_distribution/README.md)
-- [Autoencoder](autoencoder/README.md)
+- [Linear Regression](linear_regression/)
+- [Probability Distribution](probability_distribution/)
+- [Autoencoder](autoencoder/)
