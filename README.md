@@ -1,10 +1,10 @@
 # DataScience
 
-딥러닝, 머신러닝과 관련된 이론을 파이썬으로 구현한 노트북 파일을 저장하는 저장소입니다.
+딥러닝, 머신러닝과 관련된 이론 구현한 노트북 파일을 저장합니다.
 
 ---
 **Required Packages**
-```python 3
+```
 numpy
 scipy
 jupyter (optional: to run jupyter notebooks)
